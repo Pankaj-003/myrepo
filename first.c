@@ -7,6 +7,9 @@ void quickshort(){
 
     //
 }
+void mergesort(){
+    //
+}
 int main(){
     Ptintf("hello");
     printf("New Commit Added");
