@@ -1,5 +1,10 @@
 #include<stdio.h>
+
 void bubblesort(){
+    //
+}
+void quickshort(){
+
     //
 }
 int main(){
